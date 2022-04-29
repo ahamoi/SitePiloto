@@ -1,0 +1,21 @@
+.bg-imagem {
+    background-image: url(https://i.ytimg.com/vi/iK414qOBVt0/maxresdefault.jpg);
+    height: 48vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  *{
+    text-align: center;
+  }
+  body {
+  /*   background: #222E5E; */
+   background-image: linear-gradient(to right bottom, #04030F , white , #023c88);
+  
+    color: rgb(0, 0, 0);
+    
+  }
+  #lista{
+     font-size: 30px;
+        text-shadow: 2px 2px #592136
+      
+  }
